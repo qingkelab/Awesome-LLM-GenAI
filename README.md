@@ -2,24 +2,15 @@
 ---
 
 ### LLM
-
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) (与ChatGPT相关的大模型及papers)
-
 - [Awesome-**Scientific**-Language-Models
 Public](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) (学科大模型)
-
 - [awesome-**mixture-of-experts**](https://github.com/XueFuzhao/awesome-mixture-of-experts) （混合专家MoE大模型）
-
 - [Awesome-**Multimodal**-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) （多模态大模型）
-
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) (中文大模型)
-  
 - [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) (中国的大模型列表)
-
 - [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) （代码大模型）
-
 - [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) （垂直领域的开源模型、数据集及评测基准）
-
 - [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) （Efficient LLM）
 
 ### Agent
