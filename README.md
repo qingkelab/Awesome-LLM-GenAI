@@ -10,3 +10,8 @@ A curated list of pre-trained language models in scientific domains (e.g., mathe
 A collection of AWESOME things about mixture-of-experts
 
 This repo is a collection of AWESOME things about mixture-of-experts, including papers, code, etc. Feel free to star and fork.
+
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+A Survey on Multimodal Large Language Models
+![](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/raw/main/images/mme-survey.jpg)
