@@ -1,17 +1,33 @@
-## LLM
+资源太多？这是一个资源合集的lists，一个**索引**！
+---
+
+### LLM
+
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) (与ChatGPT相关的大模型及papers)
 
 - [Awesome-**Scientific**-Language-Models
 Public](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) (学科大模型)
 
-A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, materials science, biology, medicine, geoscience), covering different model sizes (from 100M to 100B parameters) and modalities (e.g., language, graph, vision, table, molecule, protein, genome, climate time series).
-
 - [awesome-**mixture-of-experts**](https://github.com/XueFuzhao/awesome-mixture-of-experts) （混合专家MoE大模型）
-
-A collection of AWESOME things about mixture-of-experts
-
-This repo is a collection of AWESOME things about mixture-of-experts, including papers, code, etc. Feel free to star and fork.
 
 - [Awesome-**Multimodal**-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) （多模态大模型）
 
-A Survey on Multimodal Large Language Models
-![](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/raw/main/images/mme-survey.jpg)
+- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) (中文大模型)
+  
+- [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) (中国的大模型列表)
+
+- [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) （代码大模型）
+
+- [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) （垂直领域的开源模型、数据集及评测基准）
+
+- [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) （Efficient LLM）
+
+### Agent
+- [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent) 
+
+### 大模型推理
+- [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) 
+- [Awesome LLM Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
+
+### 大模型数据集
+- [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
