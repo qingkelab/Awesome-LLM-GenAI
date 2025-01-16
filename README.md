@@ -16,6 +16,7 @@ Public](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) (学�
 - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) (大模型推理)
 - [Awesome LLM Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)（大模型推理)
 - [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)（大模型数据集）
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)（ChatGPT提示词大全）
 
 ### GenAI
 - [Awesome-Scene-Graph-Generation](https://github.com/ChocoWu/Awesome-Scene-Graph-Generation)(场景图生成)
